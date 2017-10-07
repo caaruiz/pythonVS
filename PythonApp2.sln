@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FlaskWebProject1", "FlaskWebProject1\FlaskWebProject1.pyproj", "{AAD3C6DA-DB0E-4FB4-A71F-ED2D8D60DE05}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApp2", "FlaskWebProject1\PythonApp2.pyproj", "{AAD3C6DA-DB0E-4FB4-A71F-ED2D8D60DE05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
